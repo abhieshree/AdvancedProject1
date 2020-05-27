@@ -1,6 +1,7 @@
-# AdvancedProject1
-This is the Advanced Project 1 repository with Prof. Adalbert
+## Sentiment Analysis of Hotel Reviews on Tripadvisor(Unsupervised)
 
-Title: Sentiment Analysis of Reviews on Tripadvisor(Unsupervised)
+### Project Goal
+To classify hotel reviews as positive, negative or neutral. Exploring different data cleaning and dimensionality reduction techniques to improve final classification accuracy. 
 
-The additional approach(2) yielded an Accuracy:- 88%
+### Data Source
+Scraped 40k reviews from Tripadvisor[](https://www.tripadvisor.com/Hotels-g187879-Sardinia-Hotels.html) for 1500 Hotels in Sardinia, Italy using Scrapy (program in tripadvisorcrawler folder)
